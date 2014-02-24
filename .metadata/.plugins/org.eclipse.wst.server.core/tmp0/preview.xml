@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="platformNext" name="platformNext" path="C:/Users/pbijjala/Google Drive/BrainBook/GitHub/bigplatform/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/platformNext" type="j2ee"/>
+</server>
